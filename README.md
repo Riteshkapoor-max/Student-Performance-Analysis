@@ -134,7 +134,8 @@ This dashboard enables educational institutions to:
 - Enhance overall student performance outcomes.
 
 ---
-
+## Dashboard Review
+![Student Performance Dashboard](images/dashboard.png)
 
 
 ## 👤 Author
