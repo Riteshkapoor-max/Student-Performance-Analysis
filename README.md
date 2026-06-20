@@ -135,7 +135,7 @@ This dashboard enables educational institutions to:
 
 ---
 ## Dashboard Preview
-![Student Performance Dashboard](images/dashboard.png)
+![Student Performance Dashboard](https://github.com/Riteshkapoor-max/Student-Performance-Analysis/blob/main/Student's%20performance%20dashboard.png)
 
 
 ## 👤 Author
